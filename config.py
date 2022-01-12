@@ -23,7 +23,7 @@ MODULES = {
     'first_name': Cycle('АлексейВеликий 💀', 'АлексейНастоящий 💀'), 
 
     # BrawlStars Trophies by tag
-    #'trophies': BrawlStarsTrophies('eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6IjhmOWZjNmFkLThhMTMtNDEwYi04M2E0LWUxOTUyNGE4ZjkxZSIsImlhdCI6MTY0MjAwMTk5OSwic3ViIjoiZGV2ZWxvcGVyL2FkYzllZjYwLWU5MjAtY2QwZS1hZTFiLTgwZTE2MmRlZWMzNiIsInNjb3BlcyI6WyJicmF3bHN0YXJzIl0sImxpbWl0cyI6W3sidGllciI6ImRldmVsb3Blci9zaWx2ZXIiLCJ0eXBlIjoidGhyb3R0bGluZyJ9LHsiY2lkcnMiOlsiMjEzLjg3LjIyNS4xODAiXSwidHlwZSI6ImNsaWVudCJ9XX0.6qxKmSpx8bTYXOIoYsgwTWD6mIZ6y72Cn5MhaxZasPvPigLDRUatEhwq6BaKHj2Bq3HDkSE76hMK6aucHmJQhg', BRAWLSTARS_TOKEN),
+    #'trophies': BrawlStarsTrophies('8LQQLGJL' , BRAWLSTARS_TOKEN),
 
 }
 
