@@ -20,7 +20,7 @@ MODULES = {
     #'blocked': BlockedCount(),
 
     # Iterates strings
-    'first_name': Cycle('АлексейВеликий', 'АлексейНастоящий'), 
+    'first_name': Cycle('АлексейВеликий 💀', 'АлексейНастоящий 💀'), 
 
     # BrawlStars Trophies by tag
     #'trophies': BrawlStarsTrophies('298PJL20', BRAWLSTARS_TOKEN),
@@ -31,5 +31,5 @@ INTERVAL = 60
 
 TEMPLATES = {
    'about': 'Я настоящий. ⌛: $time', 
-    'first_name': '$first_name:$time'
+    'first_name': '$first_name: $time'
 } 
