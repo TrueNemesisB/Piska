@@ -30,7 +30,7 @@ MODULES = {
 INTERVAL = 60
 
 TEMPLATES = {
- Я настоящий   'about': '⌛: $time' 
+   'about': Я настоящий. '⌛: $time' 
 
 from .module import Module
 import httpx
