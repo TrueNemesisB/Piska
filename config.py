@@ -28,5 +28,5 @@ MODULES = {
 INTERVAL = 60
 
 TEMPLATES = {
-    'about': '⌛: $time
+    'about': '⌛: $time'
 }
