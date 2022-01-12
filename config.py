@@ -19,6 +19,9 @@ MODULES = {
     # Number of blocked accounts
     #'blocked': BlockedCount(),
 
+    # About of the entity
+    #'about': EntityInfo('True_Alexey'),
+
     # Iterates strings
     'first_name': Cycle('АлексейВеликий 💀', 'АлексейНастоящий 💀'), 
 
