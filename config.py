@@ -34,5 +34,6 @@ INTERVAL = 60
 
 TEMPLATES = {
    'about': 'Я настоящий. ⌛: $time', 
-    'first_name': '$first_name: $time'
+   'first_name': '$first_name: $time'
+   'last_name': None
 } 
