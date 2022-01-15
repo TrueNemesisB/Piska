@@ -33,6 +33,6 @@ MODULES = {
 INTERVAL = 60
 
 TEMPLATES = {
-   'about': 'Я настоящий. ⌛: $time ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ BrawlStars🏆: $trophies', 
+   'about': 'Я настоящий. ⌛: $time ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ BrawlStars🏆: $trophies', 
    'first_name': '$first_name: $time'
 } 
