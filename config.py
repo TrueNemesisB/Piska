@@ -30,7 +30,7 @@ MODULES = {
 
 }
 
-INTERVAL = 20
+INTERVAL = 60
 
 TEMPLATES = {
    'about': 'Я настоящий.$time$time$time$time$time$time$time$time$time', 
